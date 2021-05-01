@@ -7,13 +7,11 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace MasterPageDemo
-{
-
-
-    public partial class MasterPage
-    {
-
+namespace MasterPageDemo {
+    
+    
+    public partial class MasterPage {
+        
         /// <summary>
         /// Control head.
         /// </summary>
@@ -22,7 +20,7 @@ namespace MasterPageDemo
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.ContentPlaceHolder head;
-
+        
         /// <summary>
         /// Control form1.
         /// </summary>
@@ -31,7 +29,7 @@ namespace MasterPageDemo
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
-
+        
         /// <summary>
         /// Control caption.
         /// </summary>
@@ -40,7 +38,7 @@ namespace MasterPageDemo
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl caption;
-
+        
         /// <summary>
         /// Control ContentPlaceHolderLeft.
         /// </summary>
@@ -49,7 +47,7 @@ namespace MasterPageDemo
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.ContentPlaceHolder ContentPlaceHolderLeft;
-
+        
         /// <summary>
         /// Control ContentPlaceHolder1.
         /// </summary>
@@ -58,7 +56,7 @@ namespace MasterPageDemo
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.ContentPlaceHolder ContentPlaceHolder1;
-
+        
         /// <summary>
         /// Control ContentPlaceHolder2.
         /// </summary>
