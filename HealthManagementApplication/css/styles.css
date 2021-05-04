@@ -31,3 +31,7 @@ input {
     margin-top: 1rem;
     width: 100%;
 }
+
+.my-content {
+    margin-top: 15vh;
+}
